@@ -11,6 +11,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
 
@@ -27,7 +29,7 @@
   <title>Bootstrap 101 Template</title>
 
   <!-- Bootstrap -->
-  <link href="utils/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="css/chenziyong.css" rel="stylesheet">
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
 </head>
@@ -42,13 +44,13 @@
         <a class="nav-link" href="#">  Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#"> <img src="image/svg/house.svg" alt="Bootstrap" width="20"> Stays</a>
+        <a class="nav-link" href="#"> <img src="img/svg/house.svg" alt="Bootstrap" width="20"> Stays</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">  <img src="image/svg/signpost-split.svg" alt="Bootstrap" width="20">Attractions</a>
+        <a class="nav-link" href="#">  <img src="img/svg/signpost-split.svg" alt="Bootstrap" width="20">Attractions</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">  <img src="image/svg/car.svg" alt="Bootstrap" width="20" >Car rentals</a>
+        <a class="nav-link" href="#">  <img src="img/svg/car.svg" alt="Bootstrap" width="20" >Car rentals</a>
       </li>
     </ul>
 
@@ -58,7 +60,7 @@
       </li>
       <li class="list-inline-item">
 
-        <a class="btn btn-success" href="//网站"> <img src="image/svg/sign-out-alt.svg" alt="Bootstrap" width="20" >  Sign Up</a>
+        <a class="btn btn-success" href="//网站"> <img src="img/svg/sign-out-alt.svg" alt="Bootstrap" width="20" >  Sign Up</a>
       </li>
     </div>
   </div>
@@ -78,7 +80,7 @@
     <div class="row no-gutters">
       <div class="col-md-4">
         <div class="input-group">
-          <div class="input-group-addon"><img src="image/svg/pin-map.svg" alt="Bootstrap" ></div>
+          <div class="input-group-addon"><img src="img/svg/pin-map.svg" alt="Bootstrap" ></div>
           <input class="form-control" placeholder="Enter addrress" type="text">
         </div>
       </div>
@@ -92,7 +94,7 @@
 
       <div class="col-md-3">
         <div class="input-group">
-          <div class="input-group-addon"><img src="image/svg/house.svg" alt="Bootstrap" width="20"></div>
+          <div class="input-group-addon"><img src="img/svg/house.svg" alt="Bootstrap" width="20"></div>
           <select class="form-control">
             <option value="">Cabins</option>
             <option value="">Cotages</option>
@@ -276,4 +278,5 @@
 
 </body>
 </html>
+
 
