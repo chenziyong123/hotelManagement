@@ -42,13 +42,13 @@
         <a class="nav-link" href="#">  Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#"> <img src="img/svg/house.svg" alt="Bootstrap" width="20"> Stays</a>
+        <a class="nav-link" href="#"> <img src="image/svg/house.svg" alt="Bootstrap" width="20"> Stays</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">  <img src="img/svg/signpost-split.svg" alt="Bootstrap" width="20">Attractions</a>
+        <a class="nav-link" href="#">  <img src="image/svg/signpost-split.svg" alt="Bootstrap" width="20">Attractions</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">  <img src="img/svg/car.svg" alt="Bootstrap" width="20" >Car rentals</a>
+        <a class="nav-link" href="#">  <img src="image/svg/car.svg" alt="Bootstrap" width="20" >Car rentals</a>
       </li>
     </ul>
 
@@ -58,7 +58,7 @@
       </li>
       <li class="list-inline-item">
 
-        <a class="btn btn-success" href="//网站"> <img src="img/svg/sign-out-alt.svg" alt="Bootstrap" width="20" >  Sign Up</a>
+        <a class="btn btn-success" href="//网站"> <img src="image/svg/sign-out-alt.svg" alt="Bootstrap" width="20" >  Sign Up</a>
       </li>
     </div>
   </div>
@@ -78,7 +78,7 @@
     <div class="row no-gutters">
       <div class="col-md-4">
         <div class="input-group">
-          <div class="input-group-addon"><img src="img/svg/pin-map.svg" alt="Bootstrap" ></div>
+          <div class="input-group-addon"><img src="image/svg/pin-map.svg" alt="Bootstrap" ></div>
           <input class="form-control" placeholder="Enter addrress" type="text">
         </div>
       </div>
@@ -92,7 +92,7 @@
 
       <div class="col-md-3">
         <div class="input-group">
-          <div class="input-group-addon"><img src="img/svg/house.svg" alt="Bootstrap" width="20"></div>
+          <div class="input-group-addon"><img src="image/svg/house.svg" alt="Bootstrap" width="20"></div>
           <select class="form-control">
             <option value="">Cabins</option>
             <option value="">Cotages</option>
@@ -124,7 +124,7 @@
   <div class="row">
     <div class="col-lg-3">
       <div class="card card-overlay">
-        <img class="card-img" src="img/house%20type/Cabins.jpg">
+        <img class="card-img" src="image/house%20type/Cabins.jpg">
         <div class="card-img-overlay">
           <h3 class="card-title text-white">Cabins</h3>
           <p class="card-text text-white">16 Properties</p>
@@ -134,7 +134,7 @@
 
     <div class="col-lg-3">
       <div class="card card-overlay">
-        <img class="card-img" src="img/house%20type/Cottages.jpg">
+        <img class="card-img" src="image/house%20type/Cottages.jpg">
         <div class="card-img-overlay">
           <h3 class="card-title text-white">Cottages</h3>
           <p class="card-text text-white">265 Properties</p>
@@ -143,7 +143,7 @@
     </div>
     <div class="col-lg-3">
       <div class="card card-overlay">
-        <img class="card-img" src="img/house%20type/Serviced%20apartments.jpg">
+        <img class="card-img" src="image/house%20type/Serviced%20apartments.jpg">
         <div class="card-img-overlay">
           <h3 class="card-title text-white">Apartments</h3>
           <p class="card-text text-white">620 Properties</p>
@@ -152,7 +152,7 @@
     </div>
     <div class="col-lg-3">
       <div class="card card-overlay">
-        <img class="card-img" src="img/house%20type/Villas.jpg" alt="Card image">
+        <img class="card-img" src="image/house%20type/Villas.jpg" alt="Card image">
         <div class="card-img-overlay">
           <h3 class="card-title text-white">Philadelphia</h3>
           <p class="card-text text-white">28 Properties</p>
@@ -186,28 +186,28 @@
   <!-- 轮播图片 -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="carousel-img" src="img/fongjing/11.jpg" >
+      <img class="carousel-img" src="image/fongjing/11.jpg" >
       <div class="carousel-caption">
         <h3>first</h3>
         <p>price</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img class="carousel-img" src="img/fongjing/Darlin_harbour_siidney.jpg" >
+      <img class="carousel-img" src="image/fongjing/Darlin_harbour_siidney.jpg" >
       <div class="carousel-caption">
         <h3>first</h3>
         <p>price</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img class="carousel-img" src="img/house%20type/Cottages.jpg">
+      <img class="carousel-img" src="image/house%20type/Cottages.jpg">
       <div class="carousel-caption">
         <h3>first</h3>
         <p>price</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/house%20type/Cabins.jpg" style="display: inline-block" alt="php">
+      <img class="d-block w-100" src="image/house%20type/Cabins.jpg" style="display: inline-block" alt="php">
       <div class="carousel-caption">
         <h3>first</h3>
         <p>price</p>
